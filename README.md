@@ -14,8 +14,7 @@ The primary focus of this project is building a robust and explainable evaluatio
 
 ✅ Public GitHub Repository
 
-Submit the GitHub repository URL containing this project.
-
+https://github.com/angelcodesbomb/hiver-ai-challenge
 ---
 
 ## Dataset
