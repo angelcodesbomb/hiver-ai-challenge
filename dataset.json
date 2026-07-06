@@ -1,0 +1,202 @@
+[
+  {
+    "category": "refund",
+    "email": "Hi, I bought the premium subscription yesterday but I realized it's not what I needed. Can I get my money back?",
+    "reply": "Hello, thank you for reaching out. I have processed a full refund for your subscription. You should see the funds back in your account within 5-10 business days. Best regards, Support Team."
+  },
+  {
+    "category": "billing",
+    "email": "I just checked my bank statement and I was charged twice for this month's invoice. Please fix this.",
+    "reply": "Dear Customer, we apologize for the error. We have identified the duplicate charge and issued a credit to your account for the overpayment. Please let us know if you have further questions."
+  },
+  {
+    "category": "shipping",
+    "email": "Where is my order #88219? It was supposed to be here Tuesday and the tracking hasn't updated in three days.",
+    "reply": "Hello, I've checked your order #88219. It appears there was a delay at the local sorting facility. It is now back in transit and expected to arrive by Friday. Thank you for your patience."
+  },
+  {
+    "category": "password",
+    "email": "I'm locked out of my account and the reset password link isn't sending to my email. Help!",
+    "reply": "Hi there, I have manually triggered a password reset email for you. Please check your spam folder if it doesn't arrive in 5 minutes. If it still doesn't work, let us know."
+  },
+  {
+    "category": "account",
+    "email": "I need to change the email address associated with my profile from old@email.com to new@email.com.",
+    "reply": "Hello, I have successfully updated your account email address to new@email.com. You will now receive all notifications at this address. Regards, Account Services."
+  },
+  {
+    "category": "bug",
+    "email": "Every time I try to upload a PNG file to the dashboard, the whole page crashes and gives me a 500 error.",
+    "reply": "Thank you for reporting this. Our engineering team has identified the bug and released a fix in the latest update. Please refresh your browser and try uploading again."
+  },
+  {
+    "category": "feature_request",
+    "email": "It would be great if your app had a dark mode. My eyes hurt using it at night!",
+    "reply": "Hi! Thank you for the suggestion. We are actually working on a dark mode feature right now and plan to release it in the Q3 update. Stay tuned!"
+  },
+  {
+    "category": "cancellation",
+    "email": "I want to cancel my membership immediately. I no longer use the service.",
+    "reply": "Hello, as requested, your membership has been cancelled. You will continue to have access to your features until the end of the current billing cycle. Best of luck."
+  },
+  {
+    "category": "complaint",
+    "email": "I am extremely disappointed with the quality of the product I received. It feels cheap and arrived scratched.",
+    "reply": "Dear Customer, we sincerely apologize that the product did not meet your expectations. We would like to make this right—would you prefer a free replacement or a full refund?"
+  },
+  {
+    "category": "meeting",
+    "email": "Can we jump on a quick 15-minute Zoom call tomorrow to discuss the integration process?",
+    "reply": "Hello, I would be happy to help. I am available tomorrow at 2:00 PM EST. Does that work for you? If so, I will send over the calendar invite."
+  },
+  {
+    "category": "refund",
+    "email": "Hi, I bought the Pro plan yesterday but I realized it's not what I need. I haven't used any of the features yet. Can I get my money back?",
+    "reply": "Hello, thank you for reaching out. I have processed a full refund for your Pro plan subscription. You should see the funds back in your account within 5-10 business days. Best regards, Support Team."
+  },
+  {
+    "category": "billing",
+    "email": "I just checked my bank statement and I've been charged twice for this month's subscription. Please fix this immediately.",
+    "reply": "Dear Customer, we apologize for the error. We have identified the duplicate charge and issued a refund for the second transaction. Your billing profile has been updated to prevent this from happening again. Sincerely, Billing Dept."
+  },
+  {
+    "category": "shipping",
+    "email": "My order #88291 was supposed to arrive on Tuesday, but the tracking hasn't updated in three days. Where is my package?",
+    "reply": "Hi there, I've checked your order #88291. It appears there was a delay at the local sorting facility. It is now back in transit and expected to arrive by Friday. We apologize for the delay. Regards, Shipping Team."
+  },
+  {
+    "category": "password",
+    "email": "I'm locked out of my account. I tried resetting my password but I'm not receiving the recovery email in my inbox or spam folder.",
+    "reply": "Hello, I'm sorry you're having trouble accessing your account. I have manually triggered a password reset link to your registered email. If you still don't see it, please verify that your email provider isn't blocking our domain. Best, Account Security."
+  },
+  {
+    "category": "account",
+    "email": "I need to change the primary email associated with my account from oldname@gmail.com to newname@outlook.com. How do I do this?",
+    "reply": "Hi! You can update your email address by going to Settings > Account Profile > Email Address. Enter your new email and click 'Verify'. We will send a confirmation link to the new address to complete the process. Thanks, Support."
+  },
+  {
+    "category": "bug",
+    "email": "Every time I try to upload a CSV file larger than 5MB, the app just crashes and returns a 500 error page. This is really disruptive.",
+    "reply": "Hello, thank you for reporting this. Our engineering team has identified a timeout issue with larger file uploads. We have deployed a fix, and you should now be able to upload files up to 20MB. Please let us know if the issue persists. Best, Tech Support."
+  },
+  {
+    "category": "feature_request",
+    "email": "I love the app, but it would be amazing if you guys added a Dark Mode. My eyes are killing me using this at night!",
+    "reply": "Hi! Thank you for the suggestion. We actually have Dark Mode currently in development and it is scheduled for release in the next major update (v2.4) next month. Stay tuned! Regards, Product Team."
+  },
+  {
+    "category": "cancellation",
+    "email": "I want to cancel my membership effective immediately. I no longer require the service.",
+    "reply": "Hello, as requested, your membership has been cancelled. You will continue to have access to your premium features until the end of your current billing cycle on the 15th of next month. We're sorry to see you go. Best, Account Services."
+  },
+  {
+    "category": "complaint",
+    "email": "I am extremely disappointed with the quality of the last shipment. Half of the items arrived broken and the packaging was torn. This is unacceptable.",
+    "reply": "Dear Customer, please accept our sincerest apologies for the condition of your order. This does not meet our quality standards. We have shipped a replacement for the damaged items today via express mail at no extra cost. Sincerely, Quality Assurance."
+  },
+  {
+    "category": "meeting",
+    "email": "I'd like to schedule a demo call with one of your account managers to see how the enterprise API works with our current stack. Are you free next Wednesday afternoon?",
+    "reply": "Hello, we would be happy to walk you through the API. Our team is available next Wednesday at 2:00 PM or 4:00 PM EST. Please let us know which time works best for you and we will send over a calendar invite. Best, Sales Team."
+  },
+  {
+    "category": "refund",
+    "email": "Hi, I bought the Pro plan yesterday but I realized it's not what I need. I haven't used any of the tools yet. Can I get my money back?",
+    "reply": "Hello, thank you for reaching out. I have processed a full refund for your Pro plan subscription. You should see the funds back in your account within 5-10 business days. Best regards, Support Team."
+  },
+  {
+    "category": "billing",
+    "email": "Why was I charged $29.99 this month? My usual monthly rate is $19.99. Please explain the price jump.",
+    "reply": "Dear Customer, the additional charge is due to the expiration of your introductory discount period. Your account has now transitioned to the standard monthly rate. Please let us know if you have any further questions."
+  },
+  {
+    "category": "shipping",
+    "email": "My order #88219 was supposed to arrive on Tuesday, but the tracking hasn't updated in three days. Where is my package?",
+    "reply": "Hello, I apologize for the delay. I've checked with the carrier, and your package was delayed due to weather but is now back in transit. It is expected to arrive by Friday. Thank you for your patience."
+  },
+  {
+    "category": "password",
+    "email": "I'm locked out of my account and the 'Forgot Password' link isn't sending me any emails. I've checked my spam folder already.",
+    "reply": "Hi there, I'm sorry you're having trouble accessing your account. I have manually triggered a password reset email for you. Please try again now, and if it still doesn't arrive, let me know so we can verify your identity via another method."
+  },
+  {
+    "category": "account",
+    "email": "I need to change the primary email address associated with my account from old-email@gmail.com to new-email@work.com. How do I do this?",
+    "reply": "Hello, you can update your email by going to Settings > Account Profile > Email Address. Once you enter the new address, you will receive a verification link to confirm the change. Regards, Account Services."
+  },
+  {
+    "category": "bug",
+    "email": "Every time I try to upload a CSV file larger than 5MB, the entire app crashes and clears my current session. This is happening on Chrome and Firefox.",
+    "reply": "Hi, thank you for reporting this. Our engineering team has identified the bug related to large file uploads and is working on a fix. We expect a patch to be deployed by tomorrow morning. We apologize for the inconvenience."
+  },
+  {
+    "category": "feature_request",
+    "email": "I love the app, but it would be amazing if you added a Dark Mode. My eyes get tired using the white background at night.",
+    "reply": "Hello! Thank you for the suggestion. We actually have Dark Mode on our development roadmap for Q3. I've added your vote to the request to help our team prioritize it. Best, Product Team."
+  },
+  {
+    "category": "cancellation",
+    "email": "I want to cancel my membership immediately. I'm not using the service enough to justify the cost.",
+    "reply": "Hello, I have successfully cancelled your membership as requested. You will continue to have access to your premium features until the end of your current billing cycle on the 15th of next month. We're sorry to see you go!"
+  },
+  {
+    "category": "complaint",
+    "email": "I've been waiting for a response to my last three tickets for over a week. This is completely unacceptable customer service.",
+    "reply": "Dear Customer, please accept my sincerest apologies for the delay in our response. We have been experiencing an unusually high volume of requests. I have personally taken over your case and will ensure it is resolved within the next 24 hours."
+  },
+  {
+    "category": "meeting",
+    "email": "I'm interested in the Enterprise plan but I have some specific technical questions. Can we hop on a 15-minute Zoom call this Thursday?",
+    "reply": "Hi, we would be happy to walk you through the Enterprise features. I am available this Thursday at 2:00 PM EST or 4:00 PM EST. Please let me know which works best for you, and I'll send over a calendar invite."
+  },
+  {
+    "category": "refund",
+    "email": "Hi, I bought a subscription yesterday but I realized it's not what I needed. I haven't used the service yet. Can I get my money back?",
+    "reply": "Hello, thank you for reaching out. Since you haven't used the service and are within the 14-day window, I have processed a full refund for you. You should see the funds in your account within 5-10 business days."
+  },
+  {
+    "category": "billing",
+    "email": "I just checked my bank statement and I was charged twice for this month's invoice. Please fix this immediately.",
+    "reply": "Dear customer, we apologize for the error. We have identified the duplicate transaction and issued a credit for the second charge. Your billing statement will be updated shortly."
+  },
+  {
+    "category": "shipping",
+    "email": "Where is my order #88291? The tracking says it was delivered two days ago, but nothing is on my porch.",
+    "reply": "Hello, I'm sorry to hear your package is missing. I have initiated a trace with the carrier. If the item is not located within 48 hours, we will send a replacement free of charge."
+  },
+  {
+    "category": "password",
+    "email": "I'm locked out of my account. The password reset email isn't arriving in my inbox or spam folder. Help!",
+    "reply": "Hi there, it looks like your account was registered with an old email address. I have manually triggered a reset link to your current email. Please click the link to update your password."
+  },
+  {
+    "category": "account",
+    "email": "I need to change the primary email address associated with my profile from oldmail@gmail.com to newmail@outlook.com.",
+    "reply": "Hello, I have successfully updated the primary email on your account as requested. Please use your new Outlook address for all future logins."
+  },
+  {
+    "category": "bug",
+    "email": "Every time I try to upload a PNG file in the editor, the whole browser tab crashes. This is happening on Chrome version 121.",
+    "reply": "Thank you for reporting this. Our engineering team has identified a memory leak with PNG uploads on Chrome. A patch has been deployed, and the issue is now resolved. Please refresh your page."
+  },
+  {
+    "category": "feature_request",
+    "email": "It would be great if you guys added a Dark Mode to the dashboard. The white background is way too bright for night work.",
+    "reply": "Hi! Thank you for the suggestion. We actually have Dark Mode on our roadmap for Q3. I've added your vote to the feature request list so we can notify you when it launches."
+  },
+  {
+    "category": "cancellation",
+    "email": "I want to cancel my membership effective immediately. I no longer use the tool.",
+    "reply": "Hello, I have processed your cancellation request. Your membership will remain active until the end of the current billing cycle, after which you will not be charged again."
+  },
+  {
+    "category": "complaint",
+    "email": "I've been waiting for a response to my ticket for four days. This level of service is completely unacceptable.",
+    "reply": "Please accept our sincerest apologies for the delay. We have been experiencing unusually high volumes. I have prioritized your ticket and a senior specialist will contact you within the hour."
+  },
+  {
+    "category": "meeting",
+    "email": "I'm interested in the Enterprise plan. Can we hop on a 15-minute Zoom call next Tuesday morning to discuss pricing?",
+    "reply": "Hello, we would love to discuss the Enterprise plan with you. I am available next Tuesday at 10:00 AM EST. Does that work for you, or would you prefer another time?"
+  }
+]

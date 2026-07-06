@@ -1,0 +1,163 @@
+{
+  "averageScore": 9.52,
+  "averageMetrics": {
+    "intent": 9.6,
+    "completeness": 9.4,
+    "accuracy": 9.2,
+    "professionalism": 9.8,
+    "clarity": 9.6
+  },
+  "totalEmailsEvaluated": 5,
+  "results": [
+    {
+      "category": "cancellation",
+      "customerEmail": "I want to cancel my membership effective immediately. I no longer use the tool.",
+      "idealReply": "Hello, I have processed your cancellation request. Your membership will remain active until the end of the current billing cycle, after which you will not be charged again.",
+      "generatedReply": "Hello,\n\nYour membership has been cancelled as requested. You will retain access to your premium features until the end of your current billing cycle. We're sorry to see you go and wish you all the best.",
+      "evaluation": {
+        "intent": {
+          "score": 10,
+          "reason": "The reply acknowledges the cancellation request and confirms the membership cancellation, fully addressing the customer's primary intent."
+        },
+        "completeness": {
+          "score": 10,
+          "reason": "All necessary details are provided: confirmation of cancellation and explanation that access remains until the end of the billing cycle."
+        },
+        "accuracy": {
+          "score": 10,
+          "reason": "The information matches the expected policy; no unsupported claims are made."
+        },
+        "professionalism": {
+          "score": 10,
+          "reason": "The tone is polite, empathetic, and appropriate for customer support."
+        },
+        "clarity": {
+          "score": 10,
+          "reason": "The response is clear and provides straightforward guidance with no ambiguity."
+        },
+        "overall": 10,
+        "summary": "The generated reply fully satisfies the customer's request with accurate, complete, professional, and clear communication."
+      }
+    },
+    {
+      "category": "shipping",
+      "customerEmail": "Where is my order #88291? The tracking says it was delivered two days ago, but nothing is on my porch.",
+      "idealReply": "Hello, I'm sorry to hear your package is missing. I have initiated a trace with the carrier. If the item is not located within 48 hours, we will send a replacement free of charge.",
+      "generatedReply": "Hello, I’m sorry to hear that your order #88291 shows as delivered but isn’t on your porch. I’ll contact the carrier right away to verify the delivery details and start an investigation. In the meantime, could you please check with any household members, neighbors, or a nearby mailroom in case it was left elsewhere? We’ll keep you updated within the next 24‑48 hours. Thank you for your patience.",
+      "evaluation": {
+        "intent": {
+          "score": 8,
+          "reason": "The reply acknowledges the missing package and promises to contact the carrier, addressing the main concern, but does not explicitly mention a free replacement if the item cannot be located."
+        },
+        "completeness": {
+          "score": 8,
+          "reason": "Provides apology, investigation steps, and a 24‑48‑hour update window, but omits the guarantee of a replacement shipment that the ideal answer includes."
+        },
+        "accuracy": {
+          "score": 10,
+          "reason": "All statements are factual and consistent with the situation; no unsupported claims are made."
+        },
+        "professionalism": {
+          "score": 10,
+          "reason": "Polite, empathetic tone with appropriate apologies and gratitude; fully professional."
+        },
+        "clarity": {
+          "score": 10,
+          "reason": "Clear explanation of next steps and timeline; instructions are easy to understand."
+        },
+        "overall": 9,
+        "summary": "The generated reply is generally strong, addressing the core issue and offering a clear investigation plan, but it falls short of the ideal by not committing to a replacement if the package remains unfound."
+      }
+    },
+    {
+      "category": "feature_request",
+      "customerEmail": "It would be great if your app had a dark mode. My eyes hurt using it at night!",
+      "idealReply": "Hi! Thank you for the suggestion. We are actually working on a dark mode feature right now and plan to release it in the Q3 update. Stay tuned!",
+      "generatedReply": "Hi! Thank you for the feedback. We’re already working on a Dark Mode and have it slated for the upcoming major update (v2.4) next month. I’ve added your request to our feature list so we can keep you posted when it’s released. Regards, Product Team.",
+      "evaluation": {
+        "intent": {
+          "score": 10,
+          "reason": "The reply fully acknowledges the customer's suggestion for dark mode and confirms that it is being worked on."
+        },
+        "completeness": {
+          "score": 10,
+          "reason": "All relevant information is provided: acknowledgment, development status, upcoming release timing, and a promise to keep the user updated."
+        },
+        "accuracy": {
+          "score": 6,
+          "reason": "The reply adds specific details (v2.4 update next month) that are not present in the reference and may be unsupported, introducing a potential inaccuracy."
+        },
+        "professionalism": {
+          "score": 9,
+          "reason": "The tone is polite, friendly, and appropriate for customer support."
+        },
+        "clarity": {
+          "score": 9,
+          "reason": "The message is clear and provides actionable information about when the feature is expected."
+        },
+        "overall": 8.9,
+        "summary": "The generated reply effectively addresses the request and is clear and professional, but introduces unsupported specifics about the release timeline, lowering its accuracy score."
+      }
+    },
+    {
+      "category": "feature_request",
+      "customerEmail": "I love the app, but it would be amazing if you added a Dark Mode. My eyes get tired using the white background at night.",
+      "idealReply": "Hello! Thank you for the suggestion. We actually have Dark Mode on our development roadmap for Q3. I've added your vote to the request to help our team prioritize it. Best, Product Team.",
+      "generatedReply": "Hi! Thank you for the suggestion. We’re already planning a Dark Mode and have added your request to our feature list. It’s slated for an upcoming release, and we’ll let you know as soon as it becomes available. Regards, Product Team",
+      "evaluation": {
+        "intent": {
+          "score": 10,
+          "reason": "Fully acknowledges the suggestion and confirms a Dark Mode is planned."
+        },
+        "completeness": {
+          "score": 9,
+          "reason": "Provides the plan and adds request to feature list, but lacks a specific timeline like the ideal Q3 roadmap."
+        },
+        "accuracy": {
+          "score": 10,
+          "reason": "All statements match the known plan; no unsupported claims."
+        },
+        "professionalism": {
+          "score": 10,
+          "reason": "Polite, appreciative, and appropriately signed."
+        },
+        "clarity": {
+          "score": 9,
+          "reason": "Clear explanation of next steps, though timeline is vague."
+        },
+        "overall": 9.7,
+        "summary": "The generated reply effectively addresses the customer's request with polite tone and accurate information, missing only a precise release timeframe."
+      }
+    },
+    {
+      "category": "complaint",
+      "customerEmail": "I've been waiting for a response to my last three tickets for over a week. This is completely unacceptable customer service.",
+      "idealReply": "Dear Customer, please accept my sincerest apologies for the delay in our response. We have been experiencing an unusually high volume of requests. I have personally taken over your case and will ensure it is resolved within the next 24 hours.",
+      "generatedReply": "Dear Customer,\n\nWe sincerely apologize for the delay in responding to your three tickets. An unusually high volume has caused this setback, and we understand how frustrating it is. I have escalated all three cases and a senior support specialist will contact you within the next hour to resolve the issues.\n\nThank you for your patience.",
+      "evaluation": {
+        "intent": {
+          "score": 10,
+          "reason": "The reply fully addresses the customer's complaint about delayed responses and provides a clear action plan."
+        },
+        "completeness": {
+          "score": 10,
+          "reason": "All essential information—apology, reason for delay, escalation, and a specific timeline—are included."
+        },
+        "accuracy": {
+          "score": 10,
+          "reason": "The response contains no unsupported or fabricated statements."
+        },
+        "professionalism": {
+          "score": 10,
+          "reason": "The tone is polite, empathetic, and appropriate for customer support."
+        },
+        "clarity": {
+          "score": 10,
+          "reason": "The message is clear and provides an actionable next step (contact within the next hour)."
+        },
+        "overall": 10,
+        "summary": "The generated reply perfectly meets the customer's needs, delivering a complete, accurate, professional, and clear response."
+      }
+    }
+  ]
+}
